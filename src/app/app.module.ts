@@ -16,7 +16,7 @@ import { GoalFormComponent } from './goal-form/goal-form.component';
     GoalDetailsComponent,
     StrikethroughDirective,
     DateCountPipe,
-    GoalFormComponent
+    GoalFormComponent,
   ],
   imports: [
     BrowserModule
